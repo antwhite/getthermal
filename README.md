@@ -8,4 +8,4 @@ This program returns the error code, as well as prints to stdout the value of th
 2 - NSProcessInfoThermalStateSerious</br>
 3 - NSProcessInfoThermalStateCritical<br>
 <br>
-<br>License for this:  GPL v2.0 or BSD/ISC license.
+<br>License for this:  GPL v2.0 or BSD license, user's choice.
