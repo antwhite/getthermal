@@ -5,6 +5,8 @@
 //  Created by Douglas Floyd on 12/6/15.
 //  Copyright © 2015 Secure Bear. All rights reserved.
 //
+// License is either GPL v. 2.0 or BSD.
+//
 // Grabs the thermal pressure state, returns it as an error code.
 
 #import <Foundation/Foundation.h>
